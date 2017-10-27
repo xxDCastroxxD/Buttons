@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Find The Button</title>
+  </head>
+  <body id =  "demo-4">
+  <h1>
+  Make The Background <a id="a4">Green</a> and find Betty White
+   </h1>
+    <h2>
+       <p id="demo56">
+         You Got This!!!
+      </p>
+    </h2>
+  
+    
+  
+ 
+<button id="demo" onclick="document.getElementById('demo').innerHTML = 'Try Again' ">Click Me!</button>
+<button id="demo-1"  onclick="document.getElementById('demo-1').innerHTML = 'Nope, Try Again'">Click Me!</button>
+<button id="demo-2" onclick="document.getElementById('demo-2').innerHTML = 'Close But No Cigar'">Click Me!</button>
+  <button id="demo-3"  onclick="document.getElementById('demo-3').innerHTML = 'Wrong'">Click Me!</button>
+  <button id="demo-"  onclick="document.getElementById('demo-4').style.backgroundColor = 'green'">Click Me!</button>
+  <button id="a1"  onclick="document.getElementById('a1').innerHTML = 'Hi'">Click Me!</button>
+   <button id="a2-"  onclick="document.getElementById('demo-4').style.backgroundColor = 'black'">Click Me!</button>
+   <button id="a3"  onclick="document.getElementById('a3').innerHTML = 'Nice Try'">Click Me!</button>
+   <button id="a48" onclick="document.getElementById('a4').style.color = 'green'">Click Me!</button>
+   <button id="a5" onclick="document.getElementById('a5').innerHTML = 'lol, Not This One'">Click Me!</button>
+   <button id="a6" onclick="document.getElementById('demo56').innerHTML = 'Oof'">Click Me!</button>
+   <button id="a7-" onclick="document.getElementById('demo-4').style.backgroundColor = 'purple'">Click Me!</button>
+   <button id="a8" onclick="document.getElementById('a8').style.backgroundColor = 'blue'">Click Me!</button>
+   <button   onclick="document.getElementById('my image').src='https://media3.s-nbcnews.com/i/newscms/2016_05/964556/betty-white-dab-today-tease-160207_288cb9587f95446b9a1fdfacaf1cbbdc.jpg'">Click Me!</button>
+   
+   <img id="my image" src="#" style="width:50%;"> 
+
+  
+
+
+  </body>
+</html>
